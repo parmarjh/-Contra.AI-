@@ -6,6 +6,8 @@ Contra.AI is a concept application for a "Cultural Language Model" (CLM). Unlike
 
 <video src="src/contra-ai-demo.mp4" controls width="100%"></video>
 
+> **Note**: If the video acts up, you can [view the raw file here](src/contra-ai-demo.mp4).
+
 - **Cultural Context Engine**: Switch between 12+ distinct cultural agents (e.g., Japanese Keigo, Yoruba Elder, Gen Z, NYC Direct).
 - **God Mode Aesthetic**: Premium, dark-themed UI with glassmorphism and neon accents.
 - **Adaptive Responses**: Response patterns change based on cultural settings.
